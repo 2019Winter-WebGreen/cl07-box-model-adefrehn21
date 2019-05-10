@@ -1,0 +1,27 @@
+/*
+* Name
+* Due Date
+* Box Model
+*/
+
+/* The universal selector */
+
+* {margin: 0%
+padding: 0%;
+
+}
+body {border: 10px solid black;
+        padding: 20px;}
+h1 {border: 6px dotted limegreen;
+    padding: 18px;
+    width: auto;}
+p {border: 6px dotted pink;
+    padding: 16px;}
+main {border:12px solid lightgray;
+      padding: 15px;}
+
+/* Body attributes here */
+
+body{
+
+}
